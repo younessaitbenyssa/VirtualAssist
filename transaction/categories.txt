@@ -1,0 +1,3 @@
+Achat
+Vente
+Crédit

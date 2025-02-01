@@ -1,0 +1,13 @@
+# Ignore environment files
+.env
+
+# Ignore IDE-specific files
+.idea/vcs.xml
+
+# Ignore compiled Python files
+__pycache__/
+__pycache__/design.cpython-39.pyc
+__pycache__/document.cpython-39.pyc
+__pycache__/test3.cpython-312.pyc
+__pycache__/todoList.cpython-39.pyc
+/venv
