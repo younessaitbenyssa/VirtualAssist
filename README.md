@@ -4,7 +4,7 @@ Within the project, I developed a virtual assistant that combines natural langua
 
 ## 🌟 Key Features
 ### Multimodal Interaction:
-  - 🎙️ Voice commands support (English language)
+  - 🎙️ Voice commands support (English language, currently working on Moroccan darija)
   - ⌨️ Text-based conversation interface
   - 🔄 Seamless switch between input modes
 
@@ -14,13 +14,13 @@ Within the project, I developed a virtual assistant that combines natural langua
   - ⏰ Set reminders with priority levels
 
   #### Entertainment Companion
-  - 🎬 Personalized movie recommendations
+  - 🎬 personalized movie recommendations
   - 🍿 Genre-based suggestions (using TMDB API)
   #### Financial Assistant
   - 📊 Monthly budget visualization
   - 📈 Spending pattern analysis
   #### AI 
-  - 📰 General conversation with the ai
+  - 📰 General conversation with the AI
 ## 🛠️ Technology Stack
 ### Frontend Development:
 - CustomTkinter: Modern GUI framework for creating sleek desktop interfaces
