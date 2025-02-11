@@ -22,7 +22,7 @@ I developed a virtual assistant within the project that combines natural languag
   #### AI 
   - 📰 General conversation with the AI
 ## 🛠️ Technology Stack
-### Frontend Development:
+### Frontend:
 - CustomTkinter: Modern GUI framework for creating sleek desktop interfaces
 ### Backend & Core Logic:
 - Python 3.10+: Core programming language for business logic implementation
