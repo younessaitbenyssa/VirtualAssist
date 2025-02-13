@@ -49,6 +49,5 @@ I developed a virtual assistant within the project that combines natural languag
 |-------------------|------------------|
 | ![movies](https://github.com/user-attachments/assets/c91f4144-88b1-437b-988c-ba59e7b2c910) | ![transac](https://github.com/user-attachments/assets/ebec402d-ab44-4c2d-aef5-558a374657cd) |
 
-
 ## Contributors
 - [Yassine OUABOU](https://github.com/yassineouabou)
