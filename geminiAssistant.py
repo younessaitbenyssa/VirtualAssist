@@ -147,8 +147,6 @@ class AudioLoop:
             self.read(f"your Current Volume is set to {current_volume:.0f}%")
 
             # Ask the user to increase or decrease volume
-
-
             new_volume = min(100, max(0, change))
             volume.SetMasterVolumeLevelScalar(new_volume / 100, None)
             self.read(f"the Volume is now set to {new_volume:.0f}%")
