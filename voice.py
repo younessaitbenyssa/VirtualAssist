@@ -122,7 +122,7 @@ class Voice:
         else:  # If muted
             bar_heights = [10 for _ in range(self.num_bars)]  # Small static bars
 
-        # Draw bars
+        
         for i in range(self.num_bars):
             x = i * (self.bar_width + self.spacing) + 50  # X position of each bar
             y = (self.HEIGHT // 2) - (bar_heights[i] // 2)  # Center the bar vertically
