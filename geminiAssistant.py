@@ -173,7 +173,7 @@ class AudioLoop:
         if intent in ["volume_up", "volume_down"]:
             await self.adjust_volume(intents.get("level"))
         elif intent in ["light_down", "light_up"]:
-            await self.adjust_brightness(intents.get("level"))  # Ensure this is done in the background
+            await self.adjust_brightness(intents.get("level")) 
         elif intent == "search_browser":
             await self.search_browser(intents.get("query"))
         elif intent == "open_soft":
