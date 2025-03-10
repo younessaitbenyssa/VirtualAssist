@@ -49,7 +49,7 @@ class Voice:
 
         self.mic_label = ctk.CTkButton(
             self.input_label,
-            text="",  # No text
+            text="",  
             width=40,
             height=40,
             image=self.muted_mic_icon,  # Mic icon for unmuted state
