@@ -140,6 +140,3 @@ class Voice:
 
         # Schedule the next update
         self.main_container.after(30, self.update_graphics)
-
-# Example usage:
-# Attach the `Voice` widget to a parent frame in your CustomTkinter GUI.
