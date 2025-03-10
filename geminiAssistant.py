@@ -69,7 +69,6 @@ class AudioLoop:
         speech_config = speechsdk.SpeechConfig(subscription=speech_key, region=service_region)
         speech_config.speech_synthesis_voice_name = "en-US-AndrewMultilingualNeural"
 
-
         speech_synthesizer = speechsdk.SpeechSynthesizer(speech_config=speech_config)
 
         result = speech_synthesizer.speak_text_async(text).get()
@@ -84,7 +83,6 @@ class AudioLoop:
     async def reco(self):
         try:
             if self.mic_muted:
-                # Skip recognition when the mic is muted
                 return None
 
             print("Listening for speech...")
