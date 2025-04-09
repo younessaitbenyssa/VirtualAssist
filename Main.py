@@ -37,7 +37,6 @@ movie_img = ctk.CTkImage(light_image=Image.open("images/movie.png"), size=(40,40
 transaction_img = ctk.CTkImage(light_image=Image.open("images/transaction.png"), size=(45,45))
 
 
-# Button Functions
 def afficher_chat():
     clear_main_frame()
     chatInter.ChatInterface(main_frame, app)
