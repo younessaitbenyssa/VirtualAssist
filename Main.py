@@ -22,7 +22,6 @@ main_frame.pack_propagate(False)
 
 chatInter.ChatInterface(main_frame, app)
 
-# Load images
 logo_image = ctk.CTkImage(light_image=Image.open("images/virtual-assistant-logo.png"), size=(130, 130))
 image = ctk.CTkImage(light_image=Image.open("images/expenses.png"), size=(30, 30))
 todolist_img = ctk.CTkImage(light_image=Image.open("images/todolist.png"), size=(30, 30))
