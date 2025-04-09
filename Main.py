@@ -30,7 +30,6 @@ chatbot_icon = ctk.CTkImage(light_image=Image.open("images/chatbot.png"), size=(
 document_img = ctk.CTkImage(light_image=Image.open("images/document.png"), size=(35, 35))
 voice_Assistant_img = ctk.CTkImage(light_image=Image.open("images/voice.png"), size=(40,40))
 
-# Logo
 logo_label = ctk.CTkLabel(sideBar, text="", image=logo_image)
 logo_label.place(y=25, x=60)
 
