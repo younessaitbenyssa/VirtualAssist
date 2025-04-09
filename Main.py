@@ -11,7 +11,6 @@ from transaction.transaction import TransactionApp
 app = ctk.CTk()
 app.geometry("1200x630")
 
-# Sidebar
 sideBar = ctk.CTkFrame(master=app, width=250, height=630, fg_color="#171717")
 sideBar.pack(side="left", fill="both")
 sideBar.pack_propagate(False)
