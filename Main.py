@@ -20,7 +20,6 @@ main_frame = ctk.CTkFrame(master=app, width=950, height=630)
 main_frame.pack(side="right", fill="both")
 main_frame.pack_propagate(False)
 
-# Chat Interface
 chatInter.ChatInterface(main_frame, app)
 
 # Load images
