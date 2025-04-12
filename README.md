@@ -1,6 +1,6 @@
 # virtualAssistant
 ## 📝 Project Description
-I developed a virtual assistant within the project that combines natural language processing with practical task management capabilities. Designed to be both voice and text-enabled, this AI-powered solution helps users manage daily tasks, track expenses, discover entertainment options, and access information through conversational interactions.
+we developed a virtual assistant within the project that combines natural language processing with practical task management capabilities. Designed to be both voice and text-enabled, this AI-powered solution helps users manage daily tasks, track expenses, discover entertainment options, and access information through conversational interactions.
 
 ## 🌟 Key Features
 ### Multimodal Interaction:
