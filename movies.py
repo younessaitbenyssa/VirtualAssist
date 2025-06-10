@@ -8,7 +8,7 @@ import textwrap
 
 class MovieRecommenderApp:
     def __init__(self, parent_frame):
-        self.tmdb_api_key = "23ee814931ea0abb5689ba9d2029bbde"
+        self.tmdb_api_key = ""
         self.tmdb_base_url = "https://api.themoviedb.org/3"
         self.poster_base_url = "https://image.tmdb.org/t/p/w500"
         
