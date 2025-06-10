@@ -260,7 +260,7 @@ class MovieRecommenderApp:
         url = "https://api.hyperbolic.xyz/v1/chat/completions"
         headers = {
             "Content-Type": "application/json",
-            "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ3YXlhc3l0QGdtYWlsLmNvbSIsImlhdCI6MTczNTY3MDQyNX0.uTQe4LHUoyTIligLGiJSU1I0C5lGfJG4mlXtc0vAFWc"
+            "Authorization": ""
         }
         
         data = {
