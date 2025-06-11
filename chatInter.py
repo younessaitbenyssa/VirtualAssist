@@ -190,7 +190,6 @@ class ChatInterface:
 
             print(reply)
 
-
             self.conversation_history.append({"role": "assistant", "content": reply})
             #thread1 = threading.Thread(target=test.read, args=(reply,))
             thread2 = threading.Thread(target=self.type_text, args=(self.typing_label, reply))
